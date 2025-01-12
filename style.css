@@ -1,3 +1,9 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(aquamarine, azure);
+    font-family: sans-serif;
+}
+
 img {
     width: 200px;
     height: 200px;
